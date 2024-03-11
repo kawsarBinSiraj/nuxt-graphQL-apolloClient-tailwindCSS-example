@@ -42,7 +42,19 @@ const randomize = () => {
             <p class="my-3 mt-6 text-center w-1/2 mx-auto">
                 Apollo Client is a comprehensive state management library for
                 JavaScript that enables you to manage both local and remote data
-                with <strong class="text-orange-600">GraphQL</strong>
+                with <strong class="text-orange-600">GraphQL</strong><br />
+                <span class="inline-block font-bold font-mono">
+                    <var>
+                        Design & Developed by
+                        <a
+                            href="https://kawsarbinsiraj.github.io"
+                            target="_blank"
+                            class="inline-block mt-1 text-fuchsia-600"
+                        >
+                            @kawsarBinSiraj
+                        </a>
+                    </var>
+                </span>
             </p>
             <div class="content-wrapper relative">
                 <div
